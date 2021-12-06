@@ -1,6 +1,6 @@
 Projet solveur de sudoku réalisé dans le cadre du module I231 Outils algotithmiques
 du Master 1 Développement et Ingénierie des Données de l'université de Toulon en 2021.
-par Léa Glandus.
+par Léa.
 
 
 Le programme se lance à l'aide de la commande :
